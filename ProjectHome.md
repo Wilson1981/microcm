@@ -1,0 +1,1 @@
+This is a rom based on the NoBodyAtAlls MiniCM7. MicroCM is lighweight CyanogenMod based rom that works on all X8s with the 015 baseband.
